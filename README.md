@@ -7,6 +7,9 @@ of weapon attributes that I would like to have.
 Used data normalization mainly. Sklearn section just used as a secondary proof
 
 
+For my build, I prefer a high damage and RPM. I also prefer damage to armor or headshot damage modifiers.
+
+
 ## TODO: 
  - Adding more attributes
  - Adding gear stats so its not just weapon based

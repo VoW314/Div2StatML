@@ -1,18 +1,11 @@
 # Division 2 Best Personal Gear (WIP)
 
-I was bored and frusturated with not being able to properly defeat mini-bosses in this game. Therefore, I decided
-to find a stat sheet online, and then bias the data with the traits I desire. Using this I found that I do not have the proper set-up
-of weapon attributes that I would like to have. 
-
-Used data normalization mainly. Sklearn section just used as a secondary proof
-
-
-For my build, I prefer a high damage and RPM. I also prefer damage to armor or headshot damage modifiers.
+I was frusturated with not being able to properly defeat bosses in the Division 2. I also could not find properly updated information on the types of gear or items to use. With no other ideas, I decided to use statistics and sklearn to optimize my in game gear. Using statistics and sklearn I weighted the data to fit my needs for my playstyle. I enjoy playing a very high damage build and being anti-armor. 
 
 
 ## TODO: 
- - Adding more attributes
- - Adding gear stats so its not just weapon based
+ - Taking into account buffs associated with certain playstyles
+ - Finding more updated data sheets (if it exists) to make sure all data is relavent.
 
 Started: 6/9/24
-Last updated 6/10/24
+Last updated 9/4/24
